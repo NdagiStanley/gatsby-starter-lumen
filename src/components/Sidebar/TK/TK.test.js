@@ -4,7 +4,6 @@ import TK from './TK';
 
 describe('TK', () => {
   it('renders correctly', () => {
-
     const tree = renderer.create(<TK />).toJSON();
     expect(tree).toMatchSnapshot();
   });
