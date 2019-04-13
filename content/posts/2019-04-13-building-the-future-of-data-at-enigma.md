@@ -1,7 +1,7 @@
 ---
 template: post
 title: Building The Future Of Data At Enigma
-slug: building-future-data-enigma
+slug: building-future-of-data-enigma
 draft: false
 date: 2017-01-13T08:33:33.569Z
 description: >
