@@ -12,7 +12,6 @@ category: Work
 tags:
   - Andela
   - Work
-  - ''
 ---
 ![Stan in Enigma offices, New York with Data Engineering and Core teams](/media/enigma.jpg "Stan in Enigma offices, New York with Data Engineering and Core teams")
 
