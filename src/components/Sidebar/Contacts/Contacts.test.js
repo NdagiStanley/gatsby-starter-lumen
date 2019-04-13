@@ -5,12 +5,8 @@ import Contacts from './Contacts';
 describe('Contacts', () => {
   const props = {
     contacts: {
-      email: '#',
       twitter: '#',
-      vkontakte: '#',
-      github: '#',
-      rss: '#',
-      telegram: '#'
+      github: '#'
     }
   };
 

@@ -1,38 +1,30 @@
 'use strict';
 
+var d = new Date()
+var year = d.getFullYear()
+var name = 'NdagiStanley'
+
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
-  disqusShortname: '',
+  url: 'https://stanmd.tk',
+  title: 'Stan_MD',
+  subtitle: 'Ndagi Stanley',
+  copyright: '© Stan_MD™ ה | AD-' + year,
+  disqusShortname: 'stanmd-tk',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-92241514-1',
   menu: [
     {
       label: 'Articles',
       path: '/'
-    },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Ndagi Stanley',
+    photo: '/stan.png',
+    bio: 'Software Engineer',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      twitter: name,
+      github: name
     }
   }
 };
