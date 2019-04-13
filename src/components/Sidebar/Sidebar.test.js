@@ -10,14 +10,13 @@ describe('Sidebar', () => {
           siteMetadata: {
             author: {
               name: 'name',
-              photo: '/photo.jpg',
+              photo: '/stan.png',
               bio: 'bio',
               contacts: {
                 twitter: '#',
                 github: '#'
               }
             },
-            copyright: 'copyright',
             menu: [
               {
                 label: 'Item 0',
@@ -27,7 +26,8 @@ describe('Sidebar', () => {
                 label: 'Item 1',
                 path: '/#1/'
               }
-            ]
+            ],
+            copyright: 'copyright'
           }
         }
       }
