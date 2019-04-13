@@ -1,6 +1,6 @@
 ---
 template: post
-title: Build an App with VueJS and Django Part One
+title: Build an App with VueJS and Django Part One (on ScotchIO)
 slug: vue-js-django-part-one-on-scotchio
 draft: false
 date: 2017-11-22T08:59:43.290Z
