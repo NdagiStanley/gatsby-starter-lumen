@@ -9,7 +9,6 @@ category: Web
 tags:
   - Web profile
   - Revamp
-  - ''
 ---
 Easter of 2017, I decided to revamp my web-profile into a Material Design Wordpress theme.
 
