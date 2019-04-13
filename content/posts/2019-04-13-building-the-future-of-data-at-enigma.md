@@ -2,7 +2,7 @@
 template: post
 title: Building The Future Of Data At Enigma
 slug: building-future-data-enigma
-draft: true
+draft: false
 date: 2019-04-13T08:33:33.569Z
 description: >
   Speaking to my time leading to and at Enigma as a Data Engineer. Enigma is a
