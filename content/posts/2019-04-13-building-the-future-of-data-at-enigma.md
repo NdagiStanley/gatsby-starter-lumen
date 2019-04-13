@@ -8,10 +8,12 @@ description: >
   Speaking to my time leading to and at Enigma as a Data Engineer. Enigma is a
   New York-based startup that provides data discovery and analytics tools to
   help organizations make better decisions.
-category: Work
+category: Data
 tags:
   - Andela
   - Work
+  - Data
+  - Data Engineering
 ---
 ![Stan in Enigma offices, New York with Data Engineering and Core teams](/media/enigma.jpg "Stan in Enigma offices, New York with Data Engineering and Core teams")
 
