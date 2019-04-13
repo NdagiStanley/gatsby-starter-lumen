@@ -6,6 +6,9 @@ draft: false
 date: 2018-09-07T09:35:02.882Z
 description: "One of the projects I work on is: [VueDjango](https://code.stanmd.tk/vue-django/), a full-featured Webpack setup of a VueJS 2.x app with hot-reload, lint-on-save, unit testing & css extraction integrated into a Django 2.x application.\nGuess what, it is now at 275 stars \U0001F525\U0001F525"
 category: OpenSource
+tags:
+  - VueJS
+  - Django
 ---
 275 stars and counting ...
 
