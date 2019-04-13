@@ -1,10 +1,10 @@
 ---
 template: post
-title: Vue-Django 275 stars ⭐️⭐️and counting
+title: Vue-Django 275 stars ⭐️⭐️⭐️
 slug: open-source-vue-django-275-stars
 draft: false
 date: 2018-09-07T09:35:02.882Z
-description: "One of the projects I work on is: [VueDjango](https://code.stanmd.tk/vue-django/), a full-featured Webpack setup of a VueJS 2.x app with hot-reload, lint-on-save, unit testing & css extraction integrated into a Django 2.x application.\nGuess what, it is now at 275 stars \U0001F525\U0001F525"
+description: "One of the projects I work on is: VueDjango - a VueJS-Django-Webpack boilerplate.\nGuess what, it is now at 275 stars on Github \U0001F525\U0001F525"
 category: OpenSource
 tags:
   - VueJS
