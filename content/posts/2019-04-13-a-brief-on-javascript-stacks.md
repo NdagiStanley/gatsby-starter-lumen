@@ -5,11 +5,11 @@ slug: javascript-stacks
 draft: false
 date: 2017-05-25T08:33:33.569Z
 description: Speaking to a number of JS (JavaScript) stacks I am aware of
-category: Work
+category: Code
 tags:
   - Andela
   - Work
-  - ''
+  - Code
 ---
 Javascript is rightly called the **lingua franca** of the web. So learning it should be a good thing, right?
 
