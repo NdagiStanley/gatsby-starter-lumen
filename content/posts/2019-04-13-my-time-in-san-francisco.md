@@ -2,7 +2,7 @@
 template: post
 title: My time in San Francisco
 slug: stan_md-in-sf-san-francisco
-draft: true
+draft: false
 date: 2018-09-13T10:26:23.912Z
 description: >-
   I attended DockerCon 2018 in San Francisco. While I have written a recap on
