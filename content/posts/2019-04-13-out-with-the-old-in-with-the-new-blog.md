@@ -18,6 +18,6 @@ Back to the chronicle, I bought stanmd.pro for the Wordpress-powered web-profile
 
 ### JAM stack and the .TK domain
 
-![stanmd.tk home page](/media/screenshot-2019-04-13-19.22.21.png "stanmd.tk home page")
+![stanmd.tk home page](/media/stanmd.tk_home.png "stanmd.tk home page")
 
-![stanmd.tk blog](/media/screenshot-2019-04-13-19.22.53.png "stanmd.tk blog")
+![stanmd.tk blog](/media/stanmd.tk_blog.png "stanmd.tk blog")

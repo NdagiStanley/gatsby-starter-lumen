@@ -3,7 +3,7 @@ title: "Status of assets"
 template: "page"
 ---
 
-> [![truth](/bible-32x32.png)](https://www.bible.com/bible/compare/PRO.27.23) Be sure you know the **condition/ state** of your flocks, give **careful/ close attention** to your herds;
+> [![truth](/bible.png)](https://www.bible.com/bible/compare/PRO.27.23) Be sure you know the **condition/ state** of your flocks, give **careful/ close attention** to your herds;
 
 - [Blog](#Blog)
 - [Vue-Django](#Vue-Django)
