@@ -1,6 +1,8 @@
 ---
-title: "Status of assets"
-template: "page"
+template: page
+title: Status of assets
+slug: status
+draft: false
 ---
 
 > [![truth](/bible.png)](https://www.bible.com/bible/compare/PRO.27.23) Be sure you know the **condition/ state** of your flocks, give **careful/ close attention** to your herds;
