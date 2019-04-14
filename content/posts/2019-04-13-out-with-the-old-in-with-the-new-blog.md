@@ -9,6 +9,8 @@ description: >-
   I revamped my web-profile. Today, just days to Easter; I've updated my blog on
   stanmd.tk
 category: Self
+tags:
+  - web-profile
 ---
 In 2017, I was hosting my 'static' web-profile on Wordpress. We could say that that was an overkill. What's more, was I still in the LAMP stack age while others thrived in Git-Based content using Jekyll etc.. like in [Github pages](https://pages.github.com/)?
 
@@ -18,6 +20,6 @@ Back to the chronicle, I bought stanmd.pro for the Wordpress-powered web-profile
 
 ### JAM stack and the .TK domain
 
-![stanmd.tk home page](/media/stanmd.tk_home.png "stanmd.tk home page")
+![stanmd.tk home page](/media/screenshot-2019-04-13-19.22.21.png "stanmd.tk home page")
 
-![stanmd.tk blog](/media/stanmd.tk_blog.png "stanmd.tk blog")
+![stanmd.tk blog](/media/screenshot-2019-04-13-19.22.53.png "stanmd.tk blog")
