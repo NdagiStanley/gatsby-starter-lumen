@@ -10,6 +10,7 @@ draft: false
 - [Blog](#Blog)
 - [Vue-Django](#Vue-Django)
 - [Lifebuoy](#Lifebuoy)
+- [Django Girls Complete](#Django_Girls_Complete)
 
 ## Blog
 
@@ -27,3 +28,8 @@ draft: false
 ## Lifebuoy
 
 [![](https://vsmarketplacebadge.apphb.com/downloads/NdagiStanley.lifebuoy.svg)](https://marketplace.visualstudio.com/items?itemName=NdagiStanley.lifebuoy)
+
+## Django_Girls_Complete
+
+[![CircleCI](https://img.shields.io/circleci/project/NdagiStanley/django_girls_complete.svg?style=flat-round)](https://circleci.com/gh/NdagiStanley/django_girls_complete)
+[![codecov](https://codecov.io/gh/NdagiStanley/django_girls_complete/branch/circleci/graph/badge.svg)](https://codecov.io/gh/NdagiStanley/django_girls_complete)
