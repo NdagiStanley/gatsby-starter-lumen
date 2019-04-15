@@ -8,6 +8,7 @@ draft: false
 > [![truth](/bible.png)](https://www.bible.com/bible/compare/PRO.27.23) Be sure you know the **condition/ state** of your flocks, give **careful/ close attention** to your herds;
 
 - [Blog](#Blog)
+- [Harusi](#Harusi)
 - [Vue-Django](#Vue-Django)
 - [Lifebuoy](#Lifebuoy)
 - [Django Girls Complete](#Django_Girls_Complete)
@@ -18,6 +19,10 @@ draft: false
 [![codecov](https://codecov.io/gh/NdagiStanley/lumen/branch/master/graph/badge.svg)](https://codecov.io/gh/NdagiStanley/lumen)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ba0b4698-8569-4e8d-bfca-b7bff0cfee57/deploy-status)](https://app.netlify.com/sites/silly-golick-99e4d1/deploys)
+
+## Harusi
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/13bf5c29-fd02-47e5-819f-2f89b7077f3a/deploy-status)](https://app.netlify.com/sites/vigorous-gates-061a3c/deploys)
 
 ## Vue-Django
 [![Build Status](https://semaphoreci.com/api/v1/stanmd/vue-django/branches/develop/badge.svg)](https://semaphoreci.com/stanmd/vue-django)
