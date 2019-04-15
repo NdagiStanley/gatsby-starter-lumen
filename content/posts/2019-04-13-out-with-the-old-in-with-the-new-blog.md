@@ -28,11 +28,11 @@ _Blog_
 
 > Technologies
 
-Here I used Netlify and [NuxtJS](https://nuxtjs.org/): A VueJS framework. _VueJS, I've always been a fan._ I used this [template](https://github.com/andreliem/vuecms) by [andreliem](https://twitter.com/andreliem) who runs [VueJS radar](https://www.vuejsradar.com/). _There are a good number of valuable resources on VueJS there_
+Here I used [Netlify](https://netlify.com) and [NuxtJS](https://nuxtjs.org/): A VueJS framework. _VueJS, I've always been a fan._ I used this [template](https://github.com/andreliem/vuecms) by [andreliem](https://twitter.com/andreliem) who runs [VueJS radar](https://www.vuejsradar.com/). _There are a good number of valuable resources on VueJS there_
 
 > Experience
 
-The Blogging experience was great: just push a new markdown file as a post to github and the site is built and hosted by Netlify\[https://netlify.com]. I went ahead and integrated a `Buy Me Coffee` button by [kofi](https://ko-fi.com/M4M5OEAR) _surprise me_ 😉 and a `Meet Me` button by [Vyte](https://www.vyte.in/ndagistanley).
+The Blogging experience was great: just push a new markdown file as a post to github and the site is built and hosted by Netlify. I went ahead and integrated a `Buy Me Coffee` button by [kofi](https://ko-fi.com/M4M5OEAR) _surprise me_ 😉 and a `Meet Me` button by [Vyte](https://www.vyte.in/ndagistanley).
 
 I like the fact that in each page I could add unique meta-tags. _That's good for [SEO](https://www.wordstream.com/meta-tags)_
 
