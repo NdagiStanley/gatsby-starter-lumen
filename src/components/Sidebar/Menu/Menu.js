@@ -17,6 +17,8 @@ const Menu = ({ menu }) => (
         </li>
       ))}
     </ul>
+    <a className={styles['menu__list-item-link']}
+      activeClassName={styles['menu__list-item-link--active']} href="https://code.stanmd.tk" target="_blank">Open Source</a>
   </nav>
 );
 

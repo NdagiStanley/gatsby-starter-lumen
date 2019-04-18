@@ -66,6 +66,14 @@ exports[`Sidebar renders correctly 1`] = `
           </Link>
         </li>
       </ul>
+      <a
+        activeClassName="menu__list-item-link--active"
+        className="menu__list-item-link"
+        href="https://code.stanmd.tk"
+        target="_blank"
+      >
+        Open Source
+      </a>
     </nav>
     <div
       className="contacts"
