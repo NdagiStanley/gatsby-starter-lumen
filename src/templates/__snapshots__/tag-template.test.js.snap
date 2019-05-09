@@ -143,7 +143,7 @@ exports[`TagTemplate renders correctly 1`] = `
               rel="next"
               to="/page/3"
             >
-              → NEXT
+              NEXT →
             </Link>
           </div>
         </div>
