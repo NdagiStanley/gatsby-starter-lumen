@@ -25,7 +25,7 @@ draft: false
 [![Netlify Status](https://api.netlify.com/api/v1/badges/13bf5c29-fd02-47e5-819f-2f89b7077f3a/deploy-status)](https://app.netlify.com/sites/vigorous-gates-061a3c/deploys)
 
 ## Vue-Django
-[![Build Status](https://semaphoreci.com/api/v1/stanmd/vue-django/branches/develop/badge.svg)](https://semaphoreci.com/stanmd/vue-django)
+[![Build Status](https://semaphoreci.com/api/v1/stanmd/vue-django/branches/master/badge.svg)](https://semaphoreci.com/stanmd/vue-django)
 
 [![GitHub](https://img.shields.io/github/stars/NdagiStanley/vue-django.svg?style=flat-round)](https://github.com/NdagiStanley/vue-django/stargazers)
 [![GitHub](https://img.shields.io/github/forks/NdagiStanley/vue-django.svg?style=flat-round)](https://github.com/NdagiStanley/vue-django/network/members)
