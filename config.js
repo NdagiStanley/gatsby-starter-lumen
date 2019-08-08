@@ -14,8 +14,16 @@ module.exports = {
   googleAnalyticsId: 'UA-92241514-1',
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+      label: 'Hackathons',
+      path: '/category/hackathons/'
+    },
+    {
+      label: 'Tips',
+      path: '/category/tips/'
+    },
+    {
+      label: 'Travel',
+      path: '/category/travel/'
     }
   ],
   author: {
@@ -24,7 +32,8 @@ module.exports = {
     bio: 'Software Engineer',
     contacts: {
       twitter: name,
-      github: name
+      github: name,
+      linkedin: name
     }
   }
 };

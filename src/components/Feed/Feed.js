@@ -1,6 +1,7 @@
 import React from 'react';
 import moment from 'moment';
 import { Link } from 'gatsby';
+import Tags from './Tags';
 import styles from './Feed.module.scss';
 
 const Feed = ({ edges }) => (
@@ -15,6 +16,8 @@ const Feed = ({ edges }) => (
           <span className={styles['feed__item-meta-category']}>
             <Link to={edge.node.fields.categorySlug} className={styles['feed__item-meta-category-link']}>{edge.node.frontmatter.category}</Link>
           </span>
+          <span className={styles['feed__item-meta-divider']} />
+          <Tags tags={tags} tagSlugs={tagSlugs} />
         </div>
         <h2 className={styles['feed__item-title']}>
           <Link className={styles['feed__item-title-link']} to={edge.node.fields.slug}>{edge.node.frontmatter.title}</Link>
