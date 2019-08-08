@@ -2,7 +2,7 @@
 template: post
 title: Continuous integration for Django projects
 slug: circleci-django
-draft: true
+draft: false
 date: 2019-07-23T12:55:57.672Z
 description: >-
   I use CircleCI frequently as my CI-CD tool. In this article, I take readers
