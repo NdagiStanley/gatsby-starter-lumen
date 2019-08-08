@@ -45,6 +45,8 @@ To reset simply kill the server, **Ctrl+C** then run `jt -r`. More details are i
 
 - - -
 
+S/O to [Jee](https://twitter.com/jeegik), the Whimsical software engineer who has been a colleague for almost 4 years now for this tip.
+
 [This gist for All things Python](https://gist.github.com/NdagiStanley/bf9db623e8a96ef2ab631a28c9a1eba8) has proved useful overtime for me, help yourself to it. Feedback is welcome.
 
 Catch more tips [here](https://stanmd.tk/category/tips/).
