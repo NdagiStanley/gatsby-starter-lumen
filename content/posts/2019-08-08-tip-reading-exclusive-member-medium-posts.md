@@ -2,7 +2,7 @@
 template: post
 title: 'Tip: Reading exclusive (member) Medium posts'
 slug: medium-reading-tip
-draft: true
+draft: false
 date: 2019-08-08T10:35:19.757Z
 description: >-
   Medium member previews can make you miss valuable content. This is a tip for
