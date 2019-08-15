@@ -4,17 +4,17 @@ title: Vue-Django 400 stars ⭐️⭐️⭐️
 slug: open-source-vue-django-stars
 draft: false
 date: 2019-08-15T22:35:02.882Z
-description: "One of the projects I work on is VueDjango - a VueJS-Django-Webpack boilerplate.\nGuess what, it is now at 400 stars on Github \U0001F525\U0001F525\nUpdate from 275 stars"
+description: "One of the projects I work on is VueDjango - a VueJS-Django-Webpack boilerplate.\nGuess what, it is now at 400 stars on Github \U0001F525\U0001F525!\nUpdate from 275 stars"
 category: OpenSource
 tags:
   - VueJS
   - Django
 ---
-275 stars and counting ...
+400 stars and counting ...
 
-On my home page: [stanmd.tk](stanmd.tk), one of the projects I have quoted to be working on is: [VueDjango](https://code.stanmd.tk/vue-django/), a full-featured Webpack setup of a VueJS 2.x app with hot-reload, lint-on-save, unit testing & css extraction integrated into a Django 2.x application.
+On my open-source page: [code.stanmd.tk](code.stanmd.tk), the first project I have quoted is [VueDjango](https://code.stanmd.tk/vue-django/), a full-featured Webpack setup of a VueJS 2.x app with hot-reload, lint-on-save, unit testing & css extraction integrated into a Django 2.x application.
 
-We are now at 275 stars 🔥🔥
+We are now at 400 stars 🔥🔥
 
 ### Context
 
