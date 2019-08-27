@@ -141,7 +141,7 @@ exports[`Sidebar renders correctly 1`] = `
           </b>
            I'm glad you asked. Head over to
           <a
-            href="https://techkenyans.tk/"
+            href="https://techkenyans.org/"
             target="_blank"
           >
             <img
