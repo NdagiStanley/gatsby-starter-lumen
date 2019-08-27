@@ -34,7 +34,7 @@ Tuesday, Wednesday, Thursday and Friday:
 - DockerCon
 
 - [Interview by TFIR](https://www.tfir.io/andela-transforming-open-source-software-development-in-africa/)
-[![TFIR interview - Stan_MD](http://img.youtube.com/vi/OSYMXCVCdXk/0.jpg)](http://www.youtube.com/watch?v=OSYMXCVCdXk)
+[![TFIR interview - Stan_MD](https://img.youtube.com/vi/OSYMXCVCdXk/0.jpg)](http://www.youtube.com/watch?v=OSYMXCVCdXk)
 
 Friday:
 - Fisherman's Wharf
