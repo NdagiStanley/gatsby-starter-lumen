@@ -12,7 +12,7 @@ tags:
 ---
 400 stars and counting ...
 
-On my open-source page: [code.stanmd.tk](code.stanmd.tk), the first project I have quoted is [VueDjango](https://code.stanmd.tk/vue-django/), a full-featured Webpack setup of a VueJS 2.x app with hot-reload, lint-on-save, unit testing & css extraction integrated into a Django 2.x application.
+On my open-source page: [code.stanmd.tk](https://code.stanmd.tk), the first project I have quoted is [VueDjango](https://code.stanmd.tk/vue-django/), a full-featured Webpack setup of a VueJS 2.x app with hot-reload, lint-on-save, unit testing & css extraction integrated into a Django 2.x application.
 
 We are now at 400 stars 🔥🔥
 
