@@ -1,8 +1,8 @@
 ---
 template: post
 title: 7*7 months - It's been a great run at Andela
-slug: 7*7-andela
-draft: true
+slug: andela-7*7
+draft: false
 date: 2019-11-29T05:00:00.000Z
 description: "Yes, that's 49 months \U0001F64C"
 category: career
