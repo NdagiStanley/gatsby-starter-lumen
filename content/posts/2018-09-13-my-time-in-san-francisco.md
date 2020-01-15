@@ -12,6 +12,7 @@ tags:
   - San Francisco
   - DockerCon
   - Tech
+  - conference
 ---
 We came, we saw, we conquered.
 
