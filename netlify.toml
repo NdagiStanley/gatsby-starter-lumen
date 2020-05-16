@@ -10,3 +10,27 @@
   to = "https://vyte.in/NdagiStanley"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/kingdombiz"
+  to = "https://bit.ly/KB-home"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kingdombiz/tech"
+  to = "https://bit.ly/KB-with-tech"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kingdombiz/lens"
+  to = "https://bit.ly/KB-bible-lens"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kingdombiz/gallery"
+  to = "https://bit.ly/KB-gallery"
+  status = 301
+  force = true
