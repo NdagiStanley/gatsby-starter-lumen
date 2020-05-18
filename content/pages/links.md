@@ -18,3 +18,5 @@ Here's a list of links I share to my pen-strokes:
 * KB lens - [/kingdombiz/lens](https://stanmd.tk/kingdombiz/lens)
 * KB tech - [/kingdombiz/tech](https://stanmd.tk/kingdombiz/tech)
 * KB wordsmith - [/kingdombiz/gallery](https://stanmd.tk/kingdombiz/gallery)
+
+* [Why Notion](https://bit.ly/KB-notion-page)
