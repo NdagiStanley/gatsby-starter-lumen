@@ -7,7 +7,19 @@
 
 [[redirects]]
   from = "/meet"
-  to = "https://vyte.in/NdagiStanley"
+  to = "https://bit.ly/meet-md"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/me"
+  to = "https://bit.ly/about-stanmd"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/chat"
+  to = "https://bit.ly/linktree-stan"
   status = 301
   force = true
 
