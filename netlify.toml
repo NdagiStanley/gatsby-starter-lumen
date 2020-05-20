@@ -6,12 +6,6 @@
   YARN_FLAGS = "--no-ignore-optional"
 
 [[redirects]]
-  from = "/meet"
-  to = "https://bit.ly/meet-md"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/me"
   to = "https://bit.ly/about-stanmd"
   status = 301
@@ -20,6 +14,18 @@
 [[redirects]]
   from = "/chat"
   to = "https://bit.ly/linktree-stan"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/meet"
+  to = "https://bit.ly/meet-md"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/learn/math"
+  to = "https://bit.ly/MD-math"
   status = 301
   force = true
 
