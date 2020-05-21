@@ -19,4 +19,7 @@ Here's a list of links I share to my pen-strokes:
 * KB tech - [/kingdombiz/tech](https://stanmd.tk/kingdombiz/tech)
 * KB wordsmith - [/kingdombiz/gallery](https://stanmd.tk/kingdombiz/gallery)
 
+* Learn - [/learn](https://stanmd.tk/learn)
+* Learn Math - [/learn/math](https://stanmd.tk/learn/math)
+
 * [Why Notion](https://bit.ly/KB-notion-page)
