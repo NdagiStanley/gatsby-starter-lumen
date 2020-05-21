@@ -74,6 +74,7 @@ exports[`Sidebar renders correctly 1`] = `
       >
         About me
       </a>
+      <br>
       <a
         activeClassName="menu__list-item-link--active"
         className="menu__list-item-link"
