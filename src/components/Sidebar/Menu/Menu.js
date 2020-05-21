@@ -18,6 +18,8 @@ const Menu = ({ menu }) => (
       ))}
     </ul>
     <a className={styles['menu__list-item-link']}
+      activeClassName={styles['menu__list-item-link--active']} href="https://blog.stanmd.tk/me" target="_blank">About me</a>
+    <a className={styles['menu__list-item-link']}
       activeClassName={styles['menu__list-item-link--active']} href="https://code.stanmd.tk" target="_blank">Open Source</a>
   </nav>
 );
