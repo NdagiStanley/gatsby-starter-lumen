@@ -18,6 +18,12 @@
   force = true
 
 [[redirects]]
+  from = "/devstory"
+  to = "https://bit.ly/md-devstory"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/meet"
   to = "https://bit.ly/meet-md"
   status = 301
