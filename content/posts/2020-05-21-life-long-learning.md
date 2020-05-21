@@ -30,7 +30,7 @@ I'll do my best to adhere to:
 - [Barbara Oakley's methods](https://youtu.be/vd2dtkMINIw?t=1980)
 
     Leverage the two brain modes: [_Focussed_ and _Diffused_](https://youtu.be/vd2dtkMINIw?t=538). Avoiding [procastination](https://youtu.be/vd2dtkMINIw?t=1140).
-- James Clear's tips based on his book: Atomic Habits summarized well in this [video](https://youtu.be/YT7tQzmGRLA).
+- [James Clear](https://jamesclear.com/)'s tips based on his book: Atomic Habits summarised well in this [video](https://youtu.be/YT7tQzmGRLA).
 
     "Tiny Changes, Remarkable Results"
 
