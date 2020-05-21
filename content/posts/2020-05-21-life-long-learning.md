@@ -29,7 +29,7 @@ However, it's not been done whilst in the process of doing it. So this serves as
 I'll do my best to adhere to:
 - [Barbara Oakley's methods](https://youtu.be/vd2dtkMINIw?t=1980)
 
-    Leverage the two brain modes: [_Focussed_ and _Diffused_](https://youtu.be/vd2dtkMINIw?t=538). Avoiding [procastination](https://youtu.be/vd2dtkMINIw?t=1140).
+    Leverage the two brain modes: [_Focussed_ and _Diffused_](https://youtu.be/vd2dtkMINIw?t=538). Avoiding [procrastination](https://youtu.be/vd2dtkMINIw?t=1140).
 - [James Clear](https://jamesclear.com/)'s tips based on his book: Atomic Habits summarised well in this [video](https://youtu.be/YT7tQzmGRLA).
 
     "Tiny Changes, Remarkable Results"
@@ -40,9 +40,11 @@ This is how it started. A challenge by a friend, [Japheth](https://twitter.com/j
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">100 days of math, anyone?</p>&mdash; Japheth Obala (@japhethobala) <a href="https://twitter.com/japhethobala/status/1263003532954931205?ref_src=twsrc%5Etfw">May 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-And by the end of that day (UTC time), I ticked it off:
+and by the end of that day (UTC time), I had ticked it off:
 
 ![Tracker](/media/screen-shot-2020-05-21-at-02.22.32.png "Screenshot of Tracker")
+
+Day one down, 99 to go 💪.
 
 In true #LearningInPublic fashion partly inspired by [Tania Rascia](https://www.taniarascia.com/learn/). I'll continue publishing my journey [here](https://stanmd.tk/learn/math).
 
