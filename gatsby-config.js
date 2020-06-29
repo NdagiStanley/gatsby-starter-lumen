@@ -187,5 +187,12 @@ module.exports = {
       }
     },
     'gatsby-plugin-flow',
+    {
+      resolve: 'gatsby-plugin-hotjar',
+      options: {
+        id: 1878610,
+        sv: 6
+      },
+    }
   ]
 };
