@@ -19,6 +19,6 @@ jobs:
 
       # Runs the Hello-MD action
       - name: Run Hello MD
-        uses: actions/hello-md@v1
+        uses: NdagiStanley/hello-world-docker-action@v1
         with:
           who-to-greet: 'Stan'
