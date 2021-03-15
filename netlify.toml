@@ -58,3 +58,9 @@
   to = "https://bit.ly/KB-gallery"
   status = 301
   force = true
+  
+[[redirects]]
+  from = "/web-diy"
+  to = "https://bit.ly/2SlGvnF"
+  status = 301
+  force = true
