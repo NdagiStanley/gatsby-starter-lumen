@@ -64,3 +64,15 @@
   to = "https://bit.ly/2SlGvnF"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/cv"
+  to = "https://bit.ly/3a3ZudH"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/writing-cv"
+  to = "https://bit.ly/30KIcyP"
+  status = 301
+  force = true
