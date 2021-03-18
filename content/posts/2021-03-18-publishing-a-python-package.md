@@ -9,7 +9,7 @@ description: >-
   continuous integration (CI) pipeline for it.
 category: Code
 tags:
-  - Python
+  - python
   - CI-CD
   - CircleCI
   - Development Workflow
