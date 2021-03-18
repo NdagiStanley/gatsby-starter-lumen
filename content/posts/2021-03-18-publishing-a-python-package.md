@@ -26,4 +26,4 @@ If you are using a popular programming language like JavaScript or Python there 
 ---
 
 <center>
-Continue reading more at the circleci.com article <a href="https://circleci.com/blog/pushing-a-project-to-github/" target="_blank">here</a>.
+Continue reading more at the circleci.com article <a href="https://circleci.com/blog/publishing-a-python-package/" target="_blank">here</a>.
