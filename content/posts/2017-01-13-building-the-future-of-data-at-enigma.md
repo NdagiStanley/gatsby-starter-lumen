@@ -24,4 +24,4 @@ Enigma recognizes that it’s through data that you and I can make sense out of 
 - - -
 
 <center>
-Continue reading more at the andela.com article <a href="(https://goo.gl/yWYoyJ" target="_blank">here</a>.
+Continue reading more at the andela.com article <a href="https://goo.gl/yWYoyJ" target="_blank">here</a>.
