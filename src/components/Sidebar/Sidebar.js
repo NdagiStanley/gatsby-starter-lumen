@@ -6,6 +6,7 @@ import Contacts from './Contacts';
 import Copyright from './Copyright';
 import Menu from './Menu';
 import TK from './TK';
+import Tip from './Tip';
 import styles from './Sidebar.module.scss';
 
 type Props = {
@@ -30,6 +31,7 @@ export const PureSidebar = ({ data, isIndex }: PureProps) => {
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
         <TK />
+        <Tip />
         <Copyright copyright={copyright} />
       </div>
     </div>
